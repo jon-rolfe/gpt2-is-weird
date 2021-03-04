@@ -1,0 +1,636 @@
+OneSignal
+What you'll do:
+High growth companies tend to change as they grow and the role of business operations is to anticipate the growth and to set things up so the company can scale quickly or to fill important gaps in this business as they arise. The role will span many areas and is an individual contributor role.
+
+- Automate and set up processes across the business in particular so that there are organized data flows
+- Assist in alleviating tactical bottlenecks in the business including contract processing and organization 
+- Ability to query data and build dashboards and conduct analysis for different departments
+- Assist with new technical integrations of software platforms across our the business
+- Evaluate our pricing to optimize adoption and revenue and conducting pricing analysis and assist in developing our pricing strategy
+- Work on our international expansion strategy including setting up additional offices abroad
+- Track and select business KPIs to analyze how our business is doing and to raise issues as needed
+- Assist with board slides, management materials, investor materials, and potential acquisitions 
+
+Skills and Experience:
+- Technically inclined with modeling skills in Excel, ability work with SQL, knowledge of python or R preferred
+- A passion for operations particularly with respect to Saas businesses is a plus
+- Ability to structure complex problems and drive solutions cross-functionally in sales, marketing, finance, product, and operations
+- Detail oriented and a humble personality that is willing to work on both strategic and tactical projects
+Apply
+
+
+
+Pinterest
+The mission of the Business Operations & Strategy team is to align Pinterest’s execution to its strategy. As a key member of the team, you’ll drive critical business insights for our Executive Team while partnering with leaders throughout Pinterest to constantly improve how we execute. With a combination of exceptional analytical skills, an insatiable curiosity, and an entrepreneurial, “get stuff done” mindset, you’ll help us better understand our Pinners, advertisers, and products, and drive changes that will shape the future of Pinterest.
+
+What You’ll Do
+Business Analytics & Reporting. Develop a deep understanding of the key drivers of our business and how different teams’ work contribute to them. Define critical KPIs, dashboards, and operating rhythms to help those teams manage performance and create operational rigor. Be the primary point person with our Executive Team on understanding metrics movements and trends in our business, and provide data-driven insights on poorly understood business questions
+Strategic Planning & Forecasting. Work with senior leaders to define their strategic priorities and goals in the context of broader company strategy, and how these translate to their teams’ focus areas. Manage the forecasts for revenue and other “top level” monetization metrics that help inform company-wide planning and goal-setting
+Special Projects. Tackle ambiguous strategic questions facing the business. Partner with leaders throughout Pinterest to build business cases for new initiatives. Drive the “follow through” on those initiatives to ensure smooth execution across a diverse array of cross-functional partners
+
+What We're Looking For
+6+ years of experience in a variety of strategic, analytical and operational roles. You thrive on combining rigorous data-driven analysis, strong business and product judgment, and an ability to work well across a variety of teams to solve complex problems, and have done so at a fast-growing technology company. You’ve likely had BizOps, consulting, investing, analytics, growth, and/or product management experience in a prior life. Digital media and/or ads industry experience a plus
+Ability to operate “full stack”. You can self-sufficiently query data to ask and answer your own questions, visualize data in high signal-to-noise ways that make insights clear and compelling to executives, and create project structure and execution plans to drive swift action from those insights
+Structured “systems” thinker who also loves the details. When engaging with a problem, you balance a focus on quick wins and actionability with ways to help Pinterest efficiently solve that problem at scale through systems and repeatable processes, and are comfortable diving into the operational details with the analytical, data, product, and engineering teams that you will be closely partnered with to make it happen
+Entrepreneurial self-starter. You thrive in a fast-moving environment and are independently capable of seeking information, corralling resources, and delivering results without waiting for direction
+Strong communication skills. You can move seamlessly between conversing with engineers or frontline ops employees and leading presentations with senior executives
+High-energy, positive team player. You have a proven ability to influence without authority and build strong working relationships with business partners; this is a highly cross-functional role, so a low ego and a high instinct for collaboration are musts
+
+
+Stripe
+Business Operations works across all teams at Stripe to drive and enable growth of the business. We lead mission critical, cross-functional efforts, deliver objective analysis and insights, incubate new roles, and execute on strategic initiatives. You may dig into winning new market segments, design new business systems and processes to scale Stripe, help us build and launch new products, or unlock new revenue opportunities. Whatever it is, we work on what will move the needle most for Stripe. We care about results, not activity, and we have fun doing it. If you like hard problems, are analytical, and are an amazing teammate, we want to hear from you!
+
+You Might
+Help identify and implement new opportunities that grow Stripe’s business.
+Work with product to prioritize and launch products most important to our segments.
+Design and implement the business and operational systems and processes that make Stripe tick.
+Perform analyses and research that help us make the right growth decisions for Stripe.
+Incubate and help run new teams.
+Partner with other teams to help them execute on important strategic initiatives or drive operational scale and efficiency.
+
+You Might Be a Fit If
+You get a kick out of digging deep into the data, thinking from first principles, and delivering the best results.
+You enjoy doing whatever it takes to execute on complex projects.
+You have a proven track record for working well across teams and with external partners.
+You are low ego and have a knack for working well with a wide range of people.
+You excel in analytics and problem solving.
+You have a process-oriented mindset and ability to lead people to get things done.
+You have experience in a highly strategic, analytical and operational role in fast-paced environments.
+You have experience in product or project management, taking initiatives from conception to launch.
+You have 3-10+ years of experience in consulting or comparable role in high growth tech companies
+ 
+
+
+Slack
+Slack is looking for an exceptional Program Manager to join our growing PMO as an individual contributor and support our Business Operations team (Accounting, Finance, Real Estate and Audit) driving high-impact, cross-functional programs. We are focused on building new capabilities and driving operational excellence in every part of our business and need a new team member who is passionate about partnering across the company to plan and execute our most high-impact projects.
+
+Slack has a positive, diverse and supportive culture. We look for people who are curious, enjoy finding solutions to ambiguous challenges, and love leading teams towards a common goal -- especially while using their strong communications and project management skills to outline the road ahead! In our work together we aim to be smart, humble, hardworking and, above all, collaborative.
+
+We’re looking for true passion for project and program management -- an individual who is happiest when acting as a thought partner to a colleague to shape an idea into a project, that gets excited to define that project with project plans and requirements documents, and that keeps the team moving in Slack channels.
+
+Do you want to change the way the world works, starting at Slack? Then read on for more details and submit your application.
+
+What You Will Be Doing
+Own planning and execution of high-impact projects within Business Operations by balancing team expectations, business needs, and resources to ensure correct prioritization of work
+Independently drive alignment and coordinate work across teams of employees working in Legal, Finance, Accounting, People and Places, Design, Business Technology and more
+Partner with the business to identify requirements and dependencies that are reflected in the types of project plans that people actually use
+Identify work efforts, milestones, and dependencies across portfolios of work and recommend opportunities do the work better, faster and with greater impact
+Estimate scope and levels of effort, define milestones, track progress and manage resources accordingly
+Communicate to project team members, department leaders and executives, keeping them informed and engaged and enabling them to do their best work
+Listen and learn from business partners, understanding how people and departments best communicate and integrating with the way they work
+Proactively work to remove obstacles and enable forward momentum and progress on projects -- seeing around corners is an everyday part of the job
+Build alignment among key project stakeholders and escalate key decisions as required
+Act as a trusted thought partner to business partners, advising them on the impacts of the work they’re considering and helping them to turn ideas into projects
+
+What You Should Have
+7-10 years of experience leading complex projects as a program manager, consultant, or in a similar role focused on Business Operations programs
+Strong communication skills with the ability to synthesize complex information in order to align stakeholders from individual contributors to executives
+Deep understanding of project management tools, from Smartsheet to Lucid Chart -- and an appreciation for when to use what tools
+Demonstrated experience working in a fast-paced, high-growth, often ambiguous environment
+Passion for context switching that enables you to work on multiple projects spanning different global cross-functional teams
+BA/BS degree
+ 
+
+
+
+Truepill (kinda)
+Truepill is a B2B Pharmacy-as-a-Service that enables direct-to-consumer digital health businesses to ship medications to all 50 states. We provide a pharmacy API and pharmacy fulfillment from our locations in San Mateo and Hayward. Our customers include direct-to-consumer digital health, tele-health, and hardware companies that need medications shipped to their patients.
+
+You will be directly involved in shaping the future of TruePill. By carrying out key projects for senior leadership, you’ll help create new growth opportunities and drive business performance improvement. You will report to the VP of Operations, and there will be lots of opportunity for step-up opportunities.
+
+What You'll Be Doing
+Structure complex and ambiguous strategic problems for the TruePill leadership team
+Analyze large amounts of information and data quickly and effectively to reduce complexity and make actionable recommendations
+Partner with the heads of product and operational functions to use data and insights to make informed decisions
+Lead large, cross-functional projects and build consensus with senior leaders across the organization
+We're Looking For Someone With:
+Advanced degree (PhD, MD, JD, MBA)
+4-7 years of experience in management consulting or investment banking (role dependent upon experience level)
+Strong analytical, problem solving and interpersonal skills
+Passion to do whatever it takes to solve complex problems and build scalable processes
+Comfort working in a high growth, constantly changing environment
+Work in San Mateo
+Additional experience working at a high growth startup / tech company
+Willingness to travel to both SF-Bay Area and NYC facilities as needed
+
+
+Robinhood (assc level)
+About The Role
+
+The Business Operations team works across all other teams to enable Robinhood’s growth and business success. We evaluate and build new businesses and lead strategic projects that enable Robinhood to achieve its goals. We also support the design of scalable organizational structures, drive process improvements, develop data-driven insights and decision making, and program manage high impact cross-functional projects. We act as a “special projects team” that tackles and solves any mission-critical strategy problem or initiative that will most enable Robinhood to grow faster or scale more effectively. Ultimately, we are a team of curious, humble, and analytically-minded individuals with a bias toward action and impact.
+
+Your Day-to-day Will Involve
+Leading strategic projects and performing analyses to drive major decisions for the company
+Exploring new product or market opportunities and helping stand up new businesses
+Identifying and implementing initiatives that move company metrics; partnering with cross-functional teams to improve systems that drive company-wide change
+Collaborating with leaders across the company to identify key metrics, build dashboards, and recommend actions to drive growth and efficiency
+Designing scalable systems and organizational structures to support Robinhood’s rapid growth and ensure the highest quality of execution
+Program managing cross-cutting, months-long operational improvement projects that will increase business efficiency and reduce risk
+
+Some Things We Consider Critical For This Role
+2-5 years experience at a top-tier management consulting firm, investing firm, and/or experience on a Product, Business Operations, or Internal Strategy team at a technology company
+Exceptional interpersonal skills and ability to develop strong working relationships
+Resourcefulness, persistence, and ability to thrive in fast paced, entrepreneurial environment
+Strong analytical abilities and proficiency with Excel, Powerpoint, and/or SQL
+Exceptional written and communication skills
+Ability to work independently and a strong sense of ownership
+Ability to navigate ambiguity, prioritize and juggle multiple projects
+ 
+
+
+
+Apple (sorta)
+Join the Apple Media Products Localization team, working within our organization to understand and improve our processes, and measure our impact on the global customer experience. In this role you will help us define our future vision and drive efficiency improvements. You will get involved in our planning cycles to help scope the level of effort for our projects, articulate our resource requirements and implement and supervise our success metrics. In addition, you will work closely with cross functional teams such as Product, Business, Operations and Engineering managing projects focused on improving the language experience across our International markets.
+
+Key Qualifications
+
+Exceptional business operational strategy and analytics background, preferably from a top consulting firm working in digital media and technology sectors
+Ability to quickly structure and synthesize large data sets to define insightful and meaningful recommendations to complex, ambiguous business problems
+Able to lead large cross functional projects, building consensus with stakeholders
+Ability to simplify complex problems, and comprehend matters that stretch outside of your personal area of expertise
+Consistent record in leading teams across multiple functions to deliver results
+A self-starter with passion to do something great and a go-getter attitude
+Exceptional communication skills that are effective across all levels of the organization
+Ability to learn quickly and thrive in an ambiguous, dynamic environment with the highest standards of integrity and ethics, while dealing with challenging deadlines and opposing priorities
+Description
+
+- Working within a small robust team you will help create a data framework to inform our future strategic direction and monitor the efficiency of our tools and workflow
+You will manage projects focused on improving the languages experience for our customers
+You will bring your passion for technology into the Localization space and help gather requirements working closely with our Engineering and Localization teams
+Use your experience to improve our workflow processes working closely with our Engineering and Localization Leads
+Work collaboratively with our Localization and Operational teams to help identify areas for growth and build winning pitches to secure sparse resources
+Build partnerships within our Server UI teams and Featured Editorial teams to arm them with insights to make informed business decision
+Education & ExperienceBachelors in Business, Finance, Engineering or a related field. MBA or a relevant post graduate degree is a plus.
+
+Prior experience in management consulting or business strategy at a tech company and/or startup is a plus.
+
+Advanced proficiency in MS Office and iWork suites
+
+
+Coinbase
+Business Operations & Strategy is a cross-functional team working across the whole company –including both product and operations. The team is a partner to the senior leadership at Coinbase focusing on high-impact strategic projects and data analyses.
+
+What You'll Be Doing
+Structure complex and ambiguous strategic problems for the Coinbase leadership team.
+Analyze large amounts of information and data quickly and effectively to reduce complexity and make actionable recommendations for Coinbase.
+Partner with the heads of products and operational functions to use data and insights to make informed judgments.
+Steer large, cross-functional projects and build consensus with senior leadership across the organization.
+
+What We Look For In You
+BA / BS degree or equivalent practical experience.
+2+ years of experience in management consulting or investment banking (role dependent upon experience level).
+Solid analytical, problem solving and interpersonal skills.
+Passion to do whatever it takes to solve complex problems and build scalable processes.
+Comfort working in a high growth, constantly changing environment.
+
+Nice To Haves
+4 years of experience in management consulting or investment banking.
+Additional experience working at a high growth startup / tech company.
+MBA or advanced degree.
+Experience with SQL.
+ 
+
+
+Facebook
+This position is based in our corporate headquarters in Menlo Park, CA.
+Work with the Responsible Innovation leadership team to build consensus on team strategy and priorities, manage and track team milestones and deliverables, and utilize time strategically to ensure successful execution of team objectives
+Support the delivery of key team activities, including operations and logistics for workshops, tracking engagement outcomes, and preparation of team materials
+Build relationships across the organization, assist with internal communications, and liaise with product teams wanting to work with the Responsible Innovation team
+Maximize efficiency in a constantly evolving environment where the process is fluid and creative solutions are the norm
+Ensure all team meetings are relevant, well structured, and that the preparation is complete and correct
+Contribute to strategic initiatives across our product organization
+Organizational and creative problem-solving experience
+Negotiation and influencing experience
+Experience leading cross-functional projects
+Project management and decision-making experience
+Knowledge of Facebook’s products
+Experience operating flawlessly and gaining credibility working at every level within the organization
+Communication skills experience
+BA/BS Degree
+Advanced degree preferred
+5+ years experience in a complex fast paced environment, preferably in a business role
+Experience shifting priorities quickly and act proactively, while maintaining organization and control
+Experience working with people at all levels both inside and outside of Facebook
+ 
+
+
+Zumper
+The Business Operations team at Zumper facilitates making our vision a reality by identifying and executing on the most important cross-functional initiatives. As a Business Operations Manager, you will help scale the business by helping make fact-based decisions and increase operational efficiencies while building good processes that support our growth. 
+ 
+You will work closely with the Sales, Customer Success, Finance, Marketing and Operations teams to drive key initiatives forward. This role reports to the Head of Business Operations and will regularly present to the Executive Team.
+ 
+What You Will Do
+This is a highly hands-on role who will help connect our vision to day-to-day execution by leading cross-functional projects to help us reach operating and financial goals.
+You will identify opportunities, build business cases and models, conduct analyses while partnering closely with the leadership team to help scale the business.
+Highly capable of balancing strategy creation and execution of operational plans.
+Present fact-based insights and make recommendations to the leadership team to inform critical business decisions.
+ 
+Who You Are
+5-8 years of relevant professional experience in business operations, investment banking, management consulting, corporate strategy and/or hands-on experience at a reputable, fast-growing start up.
+Structured thinker, analytical and strong communicator.
+Ability to drive highly cross-functional initiatives end to end with minimal oversight.
+MBA is a nice to have and proficiency in SQL is a strong plus.
+ 
+
+
+Datavant
+Datavant is growing quickly -- VERY quickly, and we’re looking for a superstar jack-(or jill)-of-all-trades to help drive business operations.
+
+Business Operations at Datavant is a highly cross-functional group that works with every team across the company to support those teams as they grow. On any given day, a BizOps person will be collaborating with two to five other teams on high-priority projects. Given this wide range of projects, we’re looking for someone who’s incredible at managing ambiguous situations, bringing order to chaos, and thriving in a fast-paced, high responsibility environment.
+
+Responsibilities
+
+The charter of the role is to build the tools and processes that we need to grow smoothly and efficiently:
+Developing and tracking KPIs and goals for the organization, including ensuring all team members are aligned on priorities
+Supporting board prep and investor communications
+Analyzing existing processes and recommending and implementing new operational processes or software tools
+Optimizing our relationships with vendors, external counsel, and advisors
+Driving knowledge management and serving as a trusted advisor on operational topics
+Jumping in on projects across the company and helping to keep the lights on, generally
+
+Sample Projects
+Analyzed the impact of new government regulations on our partners
+Helped support major marketing initiatives, including the first ever Future of Health Data Summit
+Designed and implemented a system for managing contracting and sales negotiations
+Coordinated and managed a move into brand-new office space
+
+Minimum Qualifications
+
+Qualifications:
+Excellent business judgement: ability to prioritize and focus on the most important projects in the face of ambiguity
+A bias towards action and a desire to take ownership of projects
+Strong interpersonal skills and ability to work well with others in stressful situations
+Exceptional organizational skills: able to manage complex projects across multiple teams
+Strong communication skills, verbally and in writing
+Thrive in a fast-paced environment
+
+Preferred Qualifications
+Passionate about building a big business that transforms the healthcare industry
+Prior experience in hypergrowth startups and awareness of the organizational challenges when scaling from 25 to 200+ employees
+All levels of experience are welcome to apply -- we are looking to build out our early stage team, including both junior and senior members
+
+
+Alto Pharmacy
+The Business Operations Associate will work directly with our centralized Business Operations team and a large cross-functional team spanning across Expansion, Product, Engineering, Operations, Sales, Partnerships, Fulfillment, Finance, and Corporate Development to drive high visibility strategic initiatives and assist with company-wide strategy, planning, and operations. You will have high visibility with leadership and get exposure to strategic business questions we are looking to solve.
+
+What You’ll Do
+Own strategic initiatives that enable Alto to reach our growth, profitability, and best-in-class customer service goals
+Partner with and support business owners across functions to work on top priority strategic projects - from new growth initiatives and business models, to increasing operational efficiencies, to improving the patient experience
+Drive quantitative and qualitative analyses to inform actionable insights and recommendations
+Efficiently and effectively communicate insights and recommendations to cross-functional teams and senior leadership
+Translate recommendations to results by executing on action plans and project managing
+Deeply understand the business health and key performance metrics for the Alto business and functions you support
+Evaluate and prioritize new business opportunities, analyze risks, and synthesize findings into succinct insights
+
+What You’ll Need
+2+ years of experience at top-tier company in management consulting, investment banking, private equity, or business operations at a fast-growing company
+Data-driven. You know how to gather the right facts and proof points to build a business case for a decision, but you focus on what is most important. You can break down business issues to identify data needs, gather inputs, and drive to insights and recommendations. You are proficient with data analysis tools, including Excel, Google Sheets, etc. SQL and Looker are preferred.
+Ability to operate “full stack”. You can ask and answer your own questions (and pull the necessary data to do so), visualize that data in high signal-to-noise ways that make key insights clear and compelling to executive audiences, and create project structure, execution plans, and momentum for yourself and those around you to drive swift action from those insights
+Comfort with ambiguity. You’re able to lead others from ambiguity to clarity
+Excellent communication skills. You are pithy and able to clearly socialize ideas to employees at all levels
+Ability to influence without authority. You can help influence the direction of the organization
+Relationship builder. You build strong working relationships with cross-functional business partners and senior executives to deliver outcomes
+Entrepreneurial. Ability to thrive in a fast-paced and innovative organization, with the ability to shift priorities quickly, and maintain organization and control
+
+Nice To Haves
+MBA
+Experience in healthcare
+Experience in a hyper-growth environment
+ 
+
+
+Pagerduty (more senior)
+
+Why We Need You
+ 
+As a Senior Manager of Strategy and Business Operations on our Corporate Strategy team, you will be driving company-level strategic and operational initiatives that help accelerate our growth, performance, and market position in Digital Operations Management. 
+ 
+You will partner closely with leaders from across our business to develop and refine our company business strategies and growth initiatives, refine our understanding of market trends and opportunities, drive key strategic and operational projects, such as market expansion, business planning, investment analysis, business performance improvement, and various internal consulting projects. You will drive mission-critical, cross-functional efforts, deliver objective, data-driven analysis and insights, and execute on strategic initiatives. 
+ 
+This position is based in San Francisco, California and reports to the Senior Director of Strategy and Business Operations. If you like hard problems, are analytical, creative, and driven, and a caring and tenacious teammate, we want to hear from you!
+ 
+Please note: This role must be located in the San Francisco Bay area (Relocation assistance not available at this time).
+ 
+How You Impact Our Vision
+Evaluate markets and opportunities to accelerate company growth and expand our position in Digital Operations Management 
+Develop impactful, cross-functionally aligned company strategies and plans with goals, actions, resourcing, and communication 
+Solve topical strategic and operational problems by driving data-driven analysis, providing internal consulting, and managing key projects 
+Manage strategic projects and business analyses, such as market opportunity analysis, business case evaluation, sizing of revenue potential, investment planning, competitive analysis and others, to help the leadership team decide on priorities and investments
+Help drive company-level strategic planning and review processes, working with Products, Sales, Marketing, and Finance
+Enable and support successful strategy execution and operationalization with implementation planning, communications, monitoring, diagnostics, and improvement projects
+ 
+About You
+5+ years of experience in management consulting, corporate strategy, business strategy, or equivalent functions or roles (MBA period counts in years of experience)
+MBA preferred from a top-tier school. BA/BS degree at minimum
+Track record of high performance in prior roles
+Mix of intellectual horsepower, curiosity, and creativity with a strong drive to have a big impact
+Communicates effectively and develops compelling recommendations to executives and cross-functional partners 
+Drives key initiatives to successful outcomes in a fast-paced, entrepreneurial environment
+Collaborates well across teams and functions
+Experience in a SaaS business and a high-growth technology company is a plus
+ 
+
+
+Energy Solutions (boring, fp&a-y)
+We are looking to fill a Business Operations Associate position in our Oakland office. Regular job duties include monitoring budgets, tracking deadlines, communicating with and collecting information from staff, and the definition, documentation, and improvement of business processes.
+This position is an excellent opportunity for people interested in supporting the business operations of a growing, environmentally driven business with an established reputation and solid prospects for the future.
+
+Daily Responsibilities Include But Are Not Limited To
+Workload and revenue forecasting
+Managing operations and client project budgets
+Developing project plans and ensuring that plans are carried out on schedule
+Reviewing processes and procedures, identifying opportunities for improvement, and maintaining clear documentation
+Regularly interacting with senior level staff
+Monitoring and communicating the progress of operations projects to senior level staff members
+Developing and presenting operational analyses
+Training other staff members on operational systems, tools, processes, and procedures
+Working closely with cross departmental teams to discover, document, and implement improvements to business processes
+Minimum Qualifications
+Bachelors degree in Business Administration, Economics, Engineering or a related field
+2 - 4 years of work experience in either a business support or administrative role
+Experience working with, organizing, manipulating and interpreting large amounts of data
+A metrics-driven mindset and are well versed with data analytics
+Advanced understanding of Microsoft Office products, particularly Excel
+Excellent interpersonal and written communication skills
+Detail oriented, with ability to manage time and organize competing priorities
+ 
+
+
+Propel
+We’re hiring a Strategy & Business Operations Manager to help us drive our P&L on our new financial product forward while generating as much value as possible for our users. As one of the first members of the Strategy & Business Operations team, you will have a unique opportunity to build a product from the ground up and think strategically about growth.
+
+Propel is a for-profit software company that holds its social mission at its core. Our investors include Andreessen Horowitz, the Omidyar Network, Kevin Durant, Serena Williams, and Nas.
+
+We Offer
+Immediate opportunity to make an impact
+A get-stuff-done and fun and caring culture
+Meaningful work and a strong shared sense of mission
+Competitive compensation (including equity) and excellent benefits
+A dog-friendly office based in Downtown Brooklyn
+
+
+What You’ll Do
+Develop the tools necessary to understand and improve our business performance, including daily and weekly performance summaries to help us monitor drivers of positive and negative performance.
+Build flexible financial models that enable us to track and understand unit economics, as well as forecast our revenues and costs going forward.
+Structure and execute on analyses that help us answer specific performance questions (e.g. what are the characteristics of particular customer segments, how should we structure our fees, etc.) and use these answers to help inform business strategy.
+Lead projects to improve business performance and drive forward individual product P&Ls, collaborating with other functions (Product, Design, Operations, Analytics) and external partners as necessary.
+
+
+What You Have
+4+ years of experience in management consulting, finance, or business operations at a technology company.
+1-2 years experience with a debit card program, fintech, or similar.
+Demonstrated ability and comfort with financial modeling and Excel.
+Proven track record of building collaborative working relationships with internal & external partners, and collaborating with those partners to deliver business results.
+Scrappiness / ability to get things done while managing multiple initiatives and competing priorities.
+Excellent verbal & written communication.
+ 
+
+
+Yelp
+Are you ready to take your career to the next level? The Business Operations & Strategy team is responsible for identifying areas of improvement and driving the strategy behind those operational changes to deliver incremental and sustainable growth in user contribution, traffic, and revenue. As an Analyst, you will work cross-functionally with various segments of our business to support these initiatives. We work with our Sales organization to help design its incentive compensation system and pilot new products and price points to sell to business owners. We strategize with our Marketing team to identify new and more efficient ways to acquire new customers. We partner with our Community Management organization to help identify new ways to encourage contribution (e.g. reviews, photos) from Yelp users. We collaborate with our Product Teams to provide analysis needed to help determine the most impactful product priorities.
+Where You Come In:You will partner across Yelp’s business units and use analytically driven insights to make strategic business decisions that will deliver strong financial results.
+You will provide first rate analytic support via hands-on Excel work while leveraging other tools as necessary (SQL, Salesforce, Python, Google Analytics, Tableau).
+You will identify actionable insights, exercise sound business judgment, suggest recommendations, and influence the direction of Yelp's business by effectively working with and communicating results to cross functional groups.
+You will create Tableau dashboards that provide visibility into KPIs, marketing effectiveness and business trends/drivers.
+What it Takes to Succeed:Bachelor’s degree or equivalent, ideally in Business, Math, Economics, or a related field.
+You have 1-2 years of relevant business experience solving analytical problems using quantitative approaches.
+You have experience at a consulting firm, investment bank, blue chip technology operating company or private equity fund.
+You are passionate about analyzing data using your exceptional Excel modeling skills. Experience with SQL is a plus.
+You are an exceptional problem solver with the ability to transition between detailed data and high-level insights.
+You have excellent interpersonal skills and are able to communicate effectively and collaborate seamlessly across teams.
+You are able to engage and work efficiently with both executive management and front-line employees.
+
+
+Honey
+About The Role
+
+As a member of the Business Operations Team, you will own a breadth of strategic projects to help scale the organization. You will work across functional areas like Partnerships, Marketing, Product, and Revenue to help develop processes to make the business more efficient. You will fully immerse yourself in data collection, draw insight from analysis, and then develop compelling, synthesized recommendations. You are comfortable with structuring complicated issues and finding creative solutions to business challenges.
+
+The ideal candidate is self-motivated, collaborative, detail-oriented, and hungry to make a big impact. You work well in a rapidly evolving company and demonstrate problem-solving skills to help drive growth.
+
+What You’ll Do
+
+As a Business Operations Analyst at Honey, you will:
+Apply quantitative analyses to internal company metrics, e.g. revenue and/or growth business metrics
+Partner with internal teams to build scalable reports and dashboards in support of business needs
+Identify gaps to current processes and propose solutions using a data-driven approach
+Develop KPIs to measure and explain performance of the business
+Track and report on business trends and emerging growth opportunities
+Help manage internal sales operations tools (e.g. Salesforce)
+Partner cross functionally with Marketing and Revenue teams to solve challenging business problems
+
+About You
+Bachelor's degree required
+1-3 years of work experience in business operations, sales operations, financial planning & analysis, investment banking, consulting and/or business strategy
+Proven ability to operate effectively in a fast-paced and ambiguous environment
+Passion for data analysis
+Be willing and eager to tackle any problem, large or small
+Great communication and interpersonal skills to work well across many stakeholders
+Advanced proficiency in Excel, PowerPoint and data analysis
+Experience with BigQuery, SQL, Periscope, Tableau, Salesforce all pluses
+ 
+
+
+Another Facebook
+Facebook is seeking an analytical, process, detail-oriented Business Planning & Operations Analyst with a strong understanding of the e-commerce business model. This person will partner effectively with leadership across our Commerce business across Facebook.This role will require leveraging SQL to source data and using tools such as Tableau and Excel so that he/she can analyze market, merchants, advertiser and performance on a regular basis. This person will work cross-functionally with several teams at Facebook with the objective of enabling the Commerce leadership to make effective, analytically driven, and strategic operating decisions. The ideal candidate will be passionate about Facebook, view the world through an analytical lens, be interested in e-commerce, be intellectually curious, learn quickly, and be able to move fast while keeping focused on high-impact projects.
+Conduct insightful analysis using internal and external data (e.g. revenue, product, market, industry, trends) to derive insights that will drive strategic business decisions
+Build prototypes of analytical tools to help scale the procurement of insights
+Partner with internal tools team to build scalable reports and dashboards in support of business needs
+Drive operational excellence that supports cross functional partners, and ensure the smooth running of weekly, monthly and quarterly business rhythms
+Focus on process and continuous improvement of core projects through automation and process enhancement
+BA/BS in an analytical field (e.g. Computer Science, Engineering, Mathematics, Business or a related field)
+7+ years of work experience in Sales Finance, Sales Analytics, Sales Operations, and/or Strategy consulting, or 5+ years experience with MBA/Master’s degree
+Demonstrated problem solving experience with experience providing business insights and recommendations from data sets
+Demonstrated experience to present technical content to audiences
+Stakeholder management experience – including managing multiple partners simultaneously
+2+ years of SQL experience (creating and updating queries)
+Tableau experience
+Advanced spreadsheet and presentation software skills
+Graduate degree in an analytical field
+Experience with e-commerce business models
+Experience extracting data from large/complex databases
+Experience in data visualizations and building scalable reporting tools
+ 
+
+
+Lyra Health
+About The Role
+
+The Business Operations team works cross-functionally to enable and support the growth of the company. The Business Operations Analyst role is for someone with a knack for telling stories with data, knows their way around a spreadsheet, and someone who is passionate about systems and scaling a startup business. This role will require taking a data driven approach to inform major business decisions across the company - with a particular focus on product analytics. The ideal candidate will have strong technical, analytical, financial, and presentation skills, in addition to strong interpersonal and communication skills. We are seeking a self-starter that can wear multiple hats while juggling a variety of projects. This position is ideal for professionals seeking Business Operations and /or Analytics experience at an early stage tech startup experiencing rapid growth.
+
+Responsibilities
+Work with large data sets pulled from various systems and databases. Independently ascertain how to query data and run ad hoc analyses to drive insights on our product offerings
+Draw actionable insights and create clear presentations to convey information to internal and external stakeholders
+Conduct business metric analysis - including defining KPIs, monitoring and evaluating performance against targets
+Build operational dashboards to monitor product line performance and analyze business drivers
+Be a key business partner to other teams and lead analytical efforts to identify external-facing product insights and drive cross-functional resolutions to operational issues
+Experience
+Bachelor’s Degree, preferably in Finance, Econ, or other Business related field.
+3-5 years of experience in business operations, analytics, corporate strategy, or other relevant experience
+Data-driven and detail-oriented.
+Comfortable working with large data sets and drawing meaningful insights
+Proficiency with SQL, Excel, and Tableau
+Highly self-motivated and willing to work cross functionally in a fast-paced and fast-growing environment
+Strong communication skills, with the ability to clearly present actionable insights
+ 
+
+
+Elation Health
+We are seeking a mission-driven Business Operations leader to drive reliable, aligned, pro-active and scalable business operations at Elation. Reporting directly to the CEO, this role works closely with executive leadership, collaborates across the company, and operationalizes cross-functional programs.
+
+Success in this role requires thorough understanding of business context, excellent execution skills, and strong leadership capabilities. In addition, since the Business Operations team is a core internal service function that represents the company in its activities, success in this role requires partnering closely with the CEO to ensure decision-making and operations are fully aligned with company culture and values.
+
+Responsibilities
+Partner with leadership to drive change management and lead business transformation efforts, including helping Elation’s teams improve internal business process and work more effectively and efficiently
+Lead yearly, bi-annual & quarterly organizational planning activities and business rhythm process - including goal-setting, leadership offsites, cascading communication, etc
+Lead creation and identification of metrics, data and insights to improve business performance, and drive business actions into results
+Develop and track key KPI’s and reporting across the company to track milestones and accomplishments, to manage key risks and issues, and to improve team collaboration
+Deliver on modeling, planning and analysis that evaluate potential levers to meet goals; and support financially sound, operationally efficient decision-making
+Work closely with leadership to assess and set strategic business opportunities in healthcare, especially primary care
+Create, manage and maintain specific communications and cadence for All Hands meetings, team meetings, etc.
+Partner with CEO to support fundraising and diligence activities
+Manage basic legal needs internally, and oversee third party legal resources
+Work on special projects as they arise
+
+Qualifications
+Prior experience in a chief of staff or business operations-type role at a rapidly growing company, management consulting, and/or venture capital or private equity
+Very strong analytical skills, including Excel
+Highly organized, detail-oriented and effective at driving to outcomes
+Deep desire to solve real problems
+Contributes to a strong culture of accountability - effective at holding team members accountable, whether more junior or more senior
+Strong communication skills with ability to influence others and to present findings and recommendations persuasively
+Entrepreneurial mindset, willing to get hands dirty
+MBA preferred
+
+
+Soho House & Co
+
+We are looking for a superstar business operations manager to take care of day-to-day affairs in running the company along with a forward looking view of helping grow and scale the business. We want clean, agile, well-designed processes that result in proactive actions and keep us from fire-fighting and correcting expensive mistakes. We want to plan ahead and make well-informed choices for conducting our business that set us up for long-term success. You will be the catalyst to make it happen. As a business operations person at Selfie, you will get to see an enterprise tech startup get built from scratch and play a pivotal role in it. You will work closely with the founders on a daily basis in operating the company. You will set up processes starting with a clean slate. You will grow with the company as it goes from a team of 3 to a team of 100 (and more) and steps through multiple financing rounds. The challenges you will face will change at a rapid pace. You will be joining the company at the ground floor with compelling equity. You will be a co-owner partnering with the founders in the trenches helping us grow the company from an idea to a world changing organization.
+
+Specific Responsibilities
+
+Your main objectives will be fixing whatever is broken and bringing sanity to an always-on chaotic environment of a young start up. You will carry all or part of the categorized responsibilities listed ahead.
+Product-market fit and pre-sales
+
+
+Work with the leadership and product team on identifying industry targets and business users
+Do outreach across industry to share Selfie's story and identify prospect customers
+Assist in creating the pricing model and the revenue strategy
+Build a prospect sourcing, tracking, and engagement process
+Assist in creating and maintaining company intro and product intro decks to be used for client meetings
+Set-up business KPIs and reporting process to track business performance
+Assist in keep a pulse on the market landscape (emerging competition, new trends, new needs, new opportunities) and make strategic recommendations
+Customer success and product feedback
+
+
+Create customer onboarding process and transition clients from prospects to customers
+Set-up ticketing system to accept and resolve client issues
+Get feedback from clients on the product and work closely with product team on identifying relevance of requests on product roadmap
+Marketing, Branding, Outreach, Recruiting
+
+
+Work with the team and external agencies/consultants to create company branding including logo, templates, website, and swag
+Identify opportunities for founding team to speak at industry specific events to showcase thought leadership (speak and represent company at events when relevant)
+Manage social media accounts (when we activate them)
+Schedule interviews and follow-ups with candidates and make sure candidates are making progress through the recruiting pipeline
+Investor relations, compliance and governance
+
+
+Work closely with the CEO on creating monthly/quarterly reporting for investors and board
+Organize board meetings logistics and help with material preparation and filing
+Assist the founding team in future fund raising by creating fund-raising strategy and investor packages
+Ensure all compliance standards are met for the company (e.g. liability insurance(s)).
+Keep all our business operations paperwork in shape and digitize it as needed
+HR, People Practices, Payroll
+
+
+Drive new employee onboarding to deliver a delightful experience to the candidate
+Assist the founding team in establishing solid company culture by setting up a clear statement of company values and building actions into processes to implement those values
+Office management
+
+
+Keep office space in shape, provisioning for coffee, snacks, lunch etc.
+Organize quarterly company parties/retreats/happy hours
+The set of responsibilities will evolve over time as the company matures. As individual functions become full-time roles (like customer success or sales), you will assist in recruiting for those positions and to facilitate smooth transition of responsibilities.
+
+Requirements
+Strong operational and execution mindset with a “go get it done” attitude
+Strong strategic planning skills with phased implementation approach
+Strong project management skills to drive multiple complex projects in parallel
+Proactiveness and responsiveness to stay on top of things and shepherd the team
+Creative and resourceful approach to problem solving with the ability to see out of the box and find alternatives
+Attention to detail, healthy prudence, and bias towards simplicity and quick results
+Ability to scour through hundreds of pages of legalese and judgement for when not to
+Strong communication skills, strong negotiation skills and welcoming interpersonal style
+A minimum of B.S., B.B.A. or similar qualification
+Prior experience with operations (required)
+Prior experience in a similar role at an enterprise software startup (strong plus)
+MBA is a plus
+
+
+
+Scribd
+About The Team
+
+The mission of the business strategy & analytics team is to ensure the entire company understands business performance and trends, and to empower all business teams to make good decisions with data. This is a new team that will bridge the gap between data science and business teams and play a critical role in driving Scribd's next stage of growth through discovery analysis, A/B test design and interpretation, and dashboard creation.
+
+About You
+
+You are a curious person who is excited to be a founding member of this newly formed team. You are highly analytical, love solving ambiguous business problems through exploratory analysis. You have great business intuition that helps you create actionable insights from data, and you know how to distribute the data in a digestible, information-rich way.
+
+You Will
+Work hands-on in the data, using SQL, Tableau and other tools to extract, analyze, and visualize data.
+Support marketing requests for external journalists
+Provide insight into marketing performance through attribution as well as campaign and channel level reporting
+Partner closely with marketing, finance, and other business teams to arm them with the data and deep insights they need to make great decisions.
+Collaborate with stakeholders across the organization to establish the highest business priorities and opportunities by measuring expected reach and impact.
+Analyze effectiveness of external partnerships to drive new user acquisition or subscriber retention impact
+Run the A/B testing design, strategy, and interpretation for the user lifecycle team
+Define and maintain common metric definitions across the business.
+
+
+You Have
+1-3 years experience with quantitative data analysis.
+Understanding of SQL, familiarity with Excel and BI tools.
+Plus if you have experience with Tableau.
+BA/BS degree in math, stats, econ, physics or equivalent experience.
+Highly analytical mindset with demonstrated ability to work through complex, ambiguous problems using data.
+
+
+Alto Pharmacy (again)
+
+The Business Operations Senior Manager will work directly with our centralized Business Operations team and a large cross-functional team spanning across Expansion, Product, Engineering, Operations, Sales, Partnerships, Fulfillment, and Finance to drive high visibility strategic initiatives and assist with company-wide strategy, planning, and operations. You will have high visibility with leadership and get exposure to strategic business questions we are looking to solve.
+
+What You’ll Do
+Own strategic initiatives that enable Alto to reach our growth, profitability, and best-in-class customer service goals
+Partner with and support business owners across functions to work on top priority strategic projects - from new growth initiatives and business models, to increasing operational efficiencies, to improving the patient experience
+Drive quantitative and qualitative analyses to inform actionable insights and recommendations
+Efficiently and effectively communicate insights and recommendations to cross-functional teams and senior leadership
+Translate recommendations to results by executing on action plans and project managing
+Deeply understand the business health and key performance metrics for the Alto business and functions you support
+Evaluate and prioritize new business opportunities, analyze risks, and synthesize findings into succinct insights
+Design scalable systems and organizational structures to support Alto’s rapid growth
+Manage the company-wide strategy & planning responsibilities, including the annual/quarterly OKR process & ensuring company-wide goals are appropriately cascaded throughout the organization
+Program manage operational improvement projects that will support growth, increase efficiencies, and reduce risk
+
+
+What You’ll Need
+6-8+ years of experience at a top-tier company in management consulting, investment banking, private equity, or business operations at a fast-growing company. MBA preferred.
+Data-driven. You know how to gather the right facts and proof points to build a business case for a decision, but you focus on what is most important. You can break down business issues to identify data needs, gather inputs, and drive to insights and recommendations. You are proficient with data analysis tools, including Excel, Google Sheets, etc. SQL and Looker are preferred
+Ability to execute. Ability to prioritize and work on multiple projects simultaneously while focused on execution and results
+Ability to operate “full stack”. You can ask and answer your own questions (and pull the necessary data to do so), visualize that data in high signal-to-noise ways that make key insights clear and compelling to executive audiences, and create project structure, execution plans, and momentum for yourself and those around you to drive swift action from those insights
+Comfort with ambiguity. You’re able to lead others from ambiguity to clarity
+Excellent communication skills. You are pithy and able to clearly socialize ideas to employees at all levels
+Ability to influence without authority. You can help influence the direction of the organization
+Relationship builder. You build strong working relationships with cross-functional business partners and senior executives to deliver outcomes
+Entrepreneurial. Ability to thrive in a fast-paced and innovative organization, with the ability to shift priorities quickly, and maintain organization and control
+
+
+Nice To Haves
+MBA
+Experience in healthcare
+Experience in a hyper-growth environment
+ 
+
+
+
